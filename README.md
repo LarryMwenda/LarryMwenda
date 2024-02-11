@@ -20,7 +20,7 @@
 [<img align="left" alt="Larrymwenda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/Larrymwenda/
-[linkedin]: https://linkedin.com/in/Larrymwenda
+[linkedin]: https://www.linkedin.com/in/larry-mwenda-44ba2a233/
 
 <!--
 **LarryMwenda/LarryMwenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
